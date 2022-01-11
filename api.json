@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 200,
+      "id": 1,
+      "title": "Café",
+      "thumbnailUrl": "https://cdn.pixabay.com/photo/2017/05/12/08/29/coffee-2306471_960_720.jpg"
+    },
+    {
+      "precio": 100,
+      "id": 2,
+      "title": "Jugo",
+      "thumbnailUrl": "https://cdn.pixabay.com/photo/2016/08/23/15/52/fresh-orange-juice-1614822_960_720.jpg"
+    },
+    {
+      "precio": 200,
+      "id": 3,
+      "title": "Gaseosa",
+      "thumbnailUrl": "https://cdn.pixabay.com/photo/2019/06/17/20/13/soft-drink-4280835_960_720.jpg"
+    },
+    {
+      "precio": 500,
+      "id": 4,
+      "title": "Pizza",
+      "thumbnailUrl": "https://cdn.pixabay.com/photo/2017/12/10/14/47/pizza-3010062_960_720.jpg"
+    },
+    {
+      "precio": 600,
+      "id": 5,
+      "title": "Hamburguesa",
+      "thumbnailUrl": "https://cdn.pixabay.com/photo/2020/10/05/19/55/hamburger-5630646_960_720.jpg"
+    },
+    {
+      "precio": 150,
+      "id": 6,
+      "title": "Empanadas",
+      "thumbnailUrl": "https://cdn.pixabay.com/photo/2020/02/11/19/03/meal-4840666_960_720.jpg"
+    }
+  ]
